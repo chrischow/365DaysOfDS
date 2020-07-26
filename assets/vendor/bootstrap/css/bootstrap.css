@@ -522,9 +522,10 @@ kbd kbd {
   font-weight: 700;
 }
 
+/* EDITED */
 pre {
   display: block;
-  font-size: 87.5%;
+  font-size: 70%;
   color: #212529;
 }
 
