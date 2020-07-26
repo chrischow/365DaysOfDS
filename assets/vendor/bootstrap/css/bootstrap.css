@@ -537,7 +537,7 @@ td.gutter {
   padding-top: 3px;
 }
 
-.highlighter-rouge {
+code.highlighter-rouge {
   font-family: IBM Plex Mono, Consolas;
   color: #20c997;
   background-color: #F1F1F1;
