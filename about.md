@@ -1,8 +1,7 @@
 ---
 layout: page
-title: About 365 Days of Code
-{% comment %} description: {% endcomment %}
+title: About
 background: '/img/bg-index.jpg'
 ---
 
-**365 Days of Code** is an initiative to iteratively improve in coding, one day at at time.
+**365 Days of Data Science** is an initiative to iteratively improve in Data Science, one day at at time.
