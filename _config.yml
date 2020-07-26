@@ -1,17 +1,17 @@
-title: Meditations
+title: 365 Days of Code
 logo: "images/logo.png" # You can add own logo image.
-description: Thoughts & Questions, Unfiltered
-baseurl: "/meditations" # The subpath of your site, e.g. /blog
+description: 
+baseurl: "/365daysofcode" # The subpath of your site, e.g. /blog
 url: "https://chrischow.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author:
   name: Christian Chow
-  bio: Hi, I'm Christian, and I think a lot.
+  bio: Hi, I'm Christian, and I want to get better at Data Science.
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /images/siteicon.png
-description: Meditations
+description: 365 Days of Code
 author:
   name: Christian Chow
   email:
@@ -19,20 +19,20 @@ author:
 social:
   name: Meditations
   links:
-    - https://chrischow.github.io/meditations/
+    - https://chrischow.github.io/365daysofcode/
 
 # Contact links
 # twitter: https://twitter.com/ # Add your Twitter handle
 # facebook: https://facebook.com/ # Add your Facebook handle
 # dribbble: https://dribbble.com/ # Add your Dribbble handle
 github: https://github.com/chrischow
-instagram: https://instagram.com/mistermunchkin # Add your Instagram handle
+# instagram: https://instagram.com/mistermunchkin # Add your Instagram handle
 # pinterest: https://pinterest.com/ # Add your Pinterest handle
-email: forexample@website.com # Add your Email address
+email: dataandstuff.blog@gmail.com # Add your Email address
 
 # Hero Section
 hero: true # To enable the section hero, use the value true. To turn off use the value false.
-hero-title: MEDITATIONS # Add your hero title
+hero-title: 365 Days of Code # Add your hero title
 hero-subtitle: Thoughts & Questions, Unfiltered # Add your hero subtitle
 hero-image: images/header_img_01.jpeg # Add background image in section hero
 
