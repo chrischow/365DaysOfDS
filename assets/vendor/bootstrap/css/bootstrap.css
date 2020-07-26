@@ -500,9 +500,11 @@ mark,
 
 code {
   font-size: 95%;
-  font-family: Inconsolata;
+  font-family: PT Mono;
   color: #20c997;
   word-wrap: break-word;
+  background-color: #f9f9f9e1;
+  padding: 4px;
 }
 
 a > code {
@@ -524,9 +526,9 @@ kbd kbd {
 }
 
 pre {
-  font-family: Inconsolata;
+  font-family: PT Mono;
   display: block;
-  font-size: 75%;
+  font-size: 85%;
   color: #212529;
   background-color: #f9f9f9e1;
   padding: 10px;
