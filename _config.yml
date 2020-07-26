@@ -17,7 +17,7 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Meditations
+  name: 365 Days of Code
   links:
     - https://chrischow.github.io/365daysofcode/
 
@@ -33,14 +33,14 @@ email: dataandstuff.blog@gmail.com # Add your Email address
 # Hero Section
 hero: true # To enable the section hero, use the value true. To turn off use the value false.
 hero-title: 365 Days of Code # Add your hero title
-hero-subtitle: Thoughts & Questions, Unfiltered # Add your hero subtitle
+hero-subtitle: Code All Year # Add your hero subtitle
 hero-image: images/header_img_01.jpeg # Add background image in section hero
 
 # Footer
 footer-image: images/footer_img_02.jpg # Add background image in footer
 
 # Comment Section (Disqus)
-disqus-identifier: meditations-blog # Add your shortname for Disqus Comment. For example mr-brown
+# disqus-identifier: meditations-blog # Add your shortname for Disqus Comment. For example mr-brown
 
 # Google Analytics
 google-analytics: "" # Add your identifier. For example UA-99631805-1.
