@@ -499,8 +499,8 @@ mark,
 }
 
 code {
-  font-size: 87.5%;
-  color: #e83e8c;
+  font-size: 95%;
+  color: #20c997;
   word-wrap: break-word;
 }
 
@@ -524,14 +524,21 @@ kbd kbd {
 
 pre {
   display: block;
-  font-size: 87.5%;
+  font-size: 75%;
   color: #212529;
+  background-color: #f9f9f9e1;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 pre code {
   font-size: inherit;
   color: inherit;
   word-break: normal;
+  background-color: #F9F9F9;
+  
+  white-space: pre;
 }
 
 .pre-scrollable {
