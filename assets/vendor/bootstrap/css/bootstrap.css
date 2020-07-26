@@ -537,6 +537,8 @@ td.gutter {
   padding-top: 3px;
 }
 
+/*
+
 code {
   font-size: 90%;
   font-family: IBM Plex Mono, Consolas;
@@ -550,8 +552,6 @@ code {
 a > code {
   color: inherit;
 }
-
-/*
 
 pre {
   font-family: IBM Plex Mono, Consolas;
