@@ -537,19 +537,21 @@ td.gutter {
   padding-top: 3px;
 }
 
-/* 
 code {
-  font-size: 95%;
+  font-size: 90%;
   font-family: IBM Plex Mono, Consolas;
   color: #20c997;
   word-wrap: break-word;
   background-color: #f1f1f1;
-  padding: 4px;
+  padding: 2px 4px;
+  border-radius: 4px;
 }
 
 a > code {
   color: inherit;
 }
+
+/*
 
 pre {
   font-family: IBM Plex Mono, Consolas;
