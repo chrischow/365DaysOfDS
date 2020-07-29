@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Development Plan
+title: Ideas
 background: '/img/bg-todo.jpg'
 ---
 
@@ -12,7 +12,6 @@ Tools must be (1) open source and (2) commonly-used across tech companies.
 | Category | Tool |
 | :------: | :--: |
 | Data Exploration | Tableau |
-| Computing | Hadoop |
 | Computing | Spark |
 | Computing | Docker |
 | Databases | MongoDB |
@@ -27,5 +26,4 @@ Tools must be (1) open source and (2) commonly-used across tech companies.
 
 ### Computing/Other
 1. **PySpark - [DataCamp](https://learn.datacamp.com/search?utf8=%E2%9C%93&q=spark&tab=courses&facets%5Btechnology%5D%5B%5D=Python):** To pick up skills in distributed data management and machine learning.
-2. **The Ultimate Hands-On Hadoop - Tame your Big Data! - [Udemy](https://learncsc.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/):** To pick up skills in distributed computing using Hadoop.
-3. **Docker for the Absolute Beginner - [Udemy](https://learncsc.udemy.com/course/learn-docker/):** To understand the basics of Docker and DevOps.
+2. **Docker for the Absolute Beginner - [Udemy](https://learncsc.udemy.com/course/learn-docker/):** To understand the basics of Docker and DevOps.
