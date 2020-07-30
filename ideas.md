@@ -12,6 +12,8 @@ Tools must be (1) open source and (2) commonly-used across tech companies.
 | Category | Tool |
 | :------: | :--: |
 | Data Exploration | Tableau |
+| Data Exploration | Apache Superset |
+| Data Exploration | Metabase |
 | Computing | Spark |
 | Computing | Docker |
 | Databases | MongoDB |
