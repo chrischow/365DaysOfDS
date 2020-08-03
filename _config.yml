@@ -17,7 +17,7 @@ linkedin_username: christian-chow
 
 # Build settings
 markdown:           kramdown
-paginate:           7
+paginate:           9
 paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
