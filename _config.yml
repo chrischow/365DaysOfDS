@@ -3,7 +3,7 @@ email:              dataandstuff.blog@gmail.com
 description:        Growing as a Data Scientist, One Day at a Time
 author:             Christian Chow
 baseurl:            "/365DaysOfDS"
-url:                "https://chrischow.github.io/365daysofdatascience"
+url:                "https://chrischow.github.io/365DaysOfDS"
 
 # Social Profiles
 # twitter_username:   SBootstrap
