@@ -56,7 +56,7 @@ border-radius: 4px;
 } */
 
 /* Amend dropdown menu style */
-.dropdown-menu {
+.nav-item .dropdown-menu {
     position: absolute;
     top: 100%;
     left: 0;
