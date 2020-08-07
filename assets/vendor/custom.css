@@ -48,6 +48,36 @@ padding: 2px 4px;
 border-radius: 4px;
 }
 
+/* Navbar dropdown background */
+.navbar-expand-lg .navbar-nav .dropdown-menu {
+    position: absolute;
+    background-color: transparent;
+    border: none;
+}
+
+/* Align dropdown item style to main navbar */
+.dropdown-item {
+    display: block;
+    width: 100%;
+    padding: 0.25rem 1.5rem;
+    clear: both;
+    font-weight: 400;
+    font-size: 11px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: white;
+    text-align: inherit;
+    white-space: nowrap;
+    background-color: transparent;
+    border: 0;
+}
+
+/* Navbar dropdown link hover/focus */
+.dropdown-item:hover, .dropdown-item:focus {
+    color: white;
+    text-decoration: underline;
+}
+
 /*
 
 code {

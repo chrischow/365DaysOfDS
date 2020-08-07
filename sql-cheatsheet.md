@@ -1,4 +1,8 @@
-# SQL Cheatsheet
+---
+layout: page
+title: SQL Cheatsheet
+background: '/img/posts/databases.jpg'
+---
 
 ## Creating Tables
 
