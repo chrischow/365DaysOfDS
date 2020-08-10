@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SQL Cheatsheet
+title: PostgreSQL Cheatsheet
 background: '/img/posts/databases.jpg'
 ---
 
