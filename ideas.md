@@ -39,4 +39,4 @@ Given that most competitions on Kaggle are about image classification, raising m
     2. [Advanced Deep Learning with Keras](https://learn.datacamp.com/courses/advanced-deep-learning-with-keras)
     3. [Complete Tensorflow 2 and Keras Deep Learning Bootcamp](https://learncsc.udemy.com/course/complete-tensorflow-2-and-keras-deep-learning-bootcamp/)
 
-As a challenge, I should aim to build and deploy image classification models using Docker.
+As a challenge, I should aim to incorporate Docker into my workflow for building image classification models.
