@@ -31,9 +31,7 @@ Tools must be (1) open source and (2) commonly-used across tech companies.
 Given that most competitions on Kaggle are about image classification, raising my Kaggle profile will require me to compete using image processing and deep learning techniques. Therefore, my next roadmap will be:
 
 1. Image Processing
-    1. [Image Processing](https://campus.datacamp.com/courses/image-processing-in-python/)
-    2. [Image Processing with Keras](https://learn.datacamp.com/courses/image-processing-with-keras-in-python)
-    3. [Biomedical Image Analysis in Python](https://learn.datacamp.com/courses/biomedical-image-analysis-in-python)
+    1. [Biomedical Image Analysis in Python](https://learn.datacamp.com/courses/biomedical-image-analysis-in-python)
 2. Deep Learning
     1. [Introduction to Deep Learning with Keras](https://learn.datacamp.com/courses/introduction-to-deep-learning-with-keras)
     2. [Advanced Deep Learning with Keras](https://learn.datacamp.com/courses/advanced-deep-learning-with-keras)
