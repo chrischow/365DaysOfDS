@@ -22,6 +22,6 @@ background: '/img/bg-index.jpg'
 6. For other tools:
     1. I can use any Data Science-related tool e.g. Power BI or Tableau for visualisation, Access for database applications.
     2. I must produce something tangible.
-7. I can carry over any work done by at most 1 day.
+7. I can carry over any work done by at most +/- 1 day.
 
 To keep track of progress, I'll use a Google Spreadsheet and a simple dashboard that will be uploaded frequently (at least once a month).
