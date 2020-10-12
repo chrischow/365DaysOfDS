@@ -9,14 +9,38 @@ On this page, I list several tools and courses of interest to plan my Data Scien
 ## Tools to Explore
 Tools must be (1) open source and (2) commonly-used across tech companies.
 
-| Category | Tool |
-| :------: | :--: |
-| Data Exploration | Tableau |
-| Data Exploration | Apache Superset |
-| Data Exploration | Metabase |
-| Computing | Spark |
-| Databases | MongoDB |
-| Databases | Hue |
+<table class="table">
+    <thead>
+        <tr>
+            <th>Category</th>
+            <th>Category</th>
+        </tr>
+    </thead>
+    <tr>
+        <td>Data Exploration</td>
+        <td>Tableau</td>
+    </tr>
+    <tr>
+        <td>Data Exploration</td>
+        <td>Apache Superset</td>
+    </tr>
+    <tr>
+        <td>Data Exploration</td>
+        <td>Metabase</td>
+    </tr>
+    <tr>
+        <td>Computing</td>
+        <td>Spark</td>
+    </tr>
+    <tr>
+        <td>Databases</td>
+        <td>MongoDB</td>
+    </tr>
+    <tr>
+        <td>Databases</td>
+        <td>Hue</td>
+    </tr>
+</table>
 
 ## Courses
 
